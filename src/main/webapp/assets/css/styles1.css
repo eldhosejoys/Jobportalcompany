@@ -1,0 +1,44 @@
+body{
+	background-image: linear-gradient(to right, rgb(6, 171, 248) , rgb(250, 250, 244));
+}
+
+.forms{
+	display: flex;
+	flex-direction:column;
+	justify-content: center;
+	background-color: rgb(182, 235, 248);
+	margin:10% 38%;
+	padding: 20px;
+	box-shadow: 4px 9px 11px rgb(10, 10, 10);
+	border-radius: 10px;
+	text-align: center;
+}
+
+.tabs{
+	width:100px;
+}
+
+.icons{
+	display: flex;
+	justify-content: center;
+	margin:0px 10px;
+}
+
+i{
+    font-size:18px;margin-right: 8px;
+   }
+   
+.profileform{
+	margin:20px 25px;
+}
+
+.heading{
+	text-align: center;
+}
+div{
+	text-align:end;
+}
+#btnlogout{
+	padding:5px;
+	border-radius:10px;
+}
